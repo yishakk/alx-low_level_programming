@@ -28,7 +28,7 @@ int sqtRecursive(int start, int end, int m)
  * @n: given number
  * Return: square root of n or -1
  **/
-	int _sqrt_recursion(int n)
+int _sqrt_recursion(int n)
 {
 	if (n < 0)
 		return (-1);
