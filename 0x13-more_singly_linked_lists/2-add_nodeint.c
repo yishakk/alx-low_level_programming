@@ -1,6 +1,6 @@
 /*
  * File: 2-add_nodeint.c
- * Auth: zola2311
+ * Auth: Yishak Kibru
  */
 
 #include "lists.h"
