@@ -1,6 +1,6 @@
 /*
  * File: 100-reverse_listint.c
- * Auth: zola2311
+ * Auth: Yishak Kibru
  */
 
 #include "lists.h"

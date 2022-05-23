@@ -1,6 +1,6 @@
 /*
  * File: 8-sum_listint.c
- * Auth: zola2311
+ * Auth: Yishak Kibru
  */
 
 #include "lists.h"

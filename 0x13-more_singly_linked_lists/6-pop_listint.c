@@ -1,6 +1,6 @@
 /*
  * File: 6-pop_listint.c
- * Auth: zola2311
+ * Auth: Yishak Kibru
  */
 
 #include "lists.h"
